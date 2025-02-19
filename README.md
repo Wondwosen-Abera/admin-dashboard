@@ -1,7 +1,7 @@
 # Admin Dashboard
 
-![Admin-dashboard Screenshot-1](screenshots/chef-claude-screenshot-1.png)  
-![Admin-dashboard Screenshot-2](screenshots/chef-claude-screenshot-2.png)  
+![Admin-dashboard Screenshot-1](screenshots/screenshot-1.png)  
+![Admin-dashboard Screenshot-2](screenshots/screenshot-2.png)  
 
 ## Live Demo  
 
