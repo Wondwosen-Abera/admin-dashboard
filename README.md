@@ -5,7 +5,7 @@
 
 ## Live Demo  
 
-Check out the live site [here](https://claudechef.netlify.app/).  
+Check out the live site [here](https://uradmindashboard.netlify.app/).  
 
 ## Key Features  
 - Intuitive and responsive admin dashboard interface  
